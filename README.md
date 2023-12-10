@@ -1,7 +1,7 @@
 # Telegram Bot Project
 
 This is a fully working Telegram bot project.
-[bot link](@hse_project_data_analys_bot)
+[bot link](https://t.me/hse_project_data_analys_bot)
 
 ## How to Run
 
